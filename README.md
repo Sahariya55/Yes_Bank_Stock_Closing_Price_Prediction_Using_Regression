@@ -1,5 +1,6 @@
 # Yes_Bank_Stock_Closing_Price_Prediction_Using_Regression
 **Project Summary:-**
+
 **Introduction:**
 
 Yes Bank, a leading financial institution in India, has been embroiled in a high-profile fraud case since 2018 involving its former CEO, Rana Kapoor. This case has led to significant fluctuations in the bank's stock prices and raised concerns about its stability and future performance. In this project, we aim to leverage predictive modeling techniques to forecast the monthly closing stock prices of Yes Bank. By analyzing historical stock data and employing time series models, we seek to provide insights that can assist investors, analysts, and stakeholders in making informed decisions amidst the uncertainty surrounding the bank's financial outlook.
